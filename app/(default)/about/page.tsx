@@ -17,7 +17,7 @@ export default function About() {
     <>
       <HeroAbout />
       <TeamImages />
-      <Timeline />
+      {/*<Timeline />*/}
       <Team />
       <TestimonialsCarousel />
       <Career />
